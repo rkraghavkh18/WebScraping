@@ -1,0 +1,166 @@
+[INFO  - 2020-12-30T09:26:03.024Z] GhostDriver - Main - running on port 27955
+[INFO  - 2020-12-30T09:26:07.449Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-12-30T09:26:07.449Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.customHeaders:  - {}
+[INFO  - 2020-12-30T09:26:07.449Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-12-30T09:26:07.449Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0bd16140-4a81-11eb-9e52-11c4e704a24b
+[ERROR - 2020-12-30T09:26:11.120Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:11.120Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  global code (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:3230)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:11.357Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:11.357Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  (anonymous function) (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:8853)
+  n (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:19)
+  (anonymous function) (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:20)
+  ca (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.216Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: Error: Syntax error, unrecognized expression: 
+
+
+
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.216Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  error (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:196)
+  filter (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:104)
+  n (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:101)
+  n (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:123)
+  find (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:127)
+  init (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:32)
+  b (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:30)
+  success (https://images-eu.ssl-images-amazon.com/images/I/41eF0jJqsmL._RC%7C717rNZIRwiL.js,61JkgunaWRL.js,41W9ohA0e+L.js,11Eo8doi-gL.js,21cmvUGs-3L.js,419FcfFaDeL.js,516bz+U3ElL.js,31-PQNZn78L.js,01ZuJG498XL.js_.js?AUIClients/NavDesktopUberAsset&0Gby8Y23#desktop.320369-T1.312593-T1.310484-T1:40)
+  resolveWith (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:47)
+  d (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:162)
+  b (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:173)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.258Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.258Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  n (https://images-eu.ssl-images-amazon.com/images/I/21E2aIDj6DL._RC%7C31695JlnK7L.js,41l0gfO6zRL.js,01g2etah0NL.js,31Nb5hZQizL.js,21d13+Tny5L.js,21hDW1uFLaL.js,31oAl8dJC2L.js,41f9BGywGeL.js,11Vp9chpn8L.js,01Ng0K110HL.js,21VTaUDSkJL.js,31vMFUg376L.js,01TQyo0bnIL.js,11mlkYc5NML.js,71RCXazy3hL.js,0185ITV0M6L.js,41Dds42UuNL.js,31UjTApGOPL.js,21taet5Ae3L.js,01K4O5nHboL.js,11+CIunp70L.js,21UUPbFLYdL.js,01wYyhYnnFL.js,01Fy9QPljuL.js,41TKsvWDdGL.js,11oGaoYgbdL.js,01JzE3-DfLL.js,11+dypSOVUL.js,01jqyAujTwL.js,31+0pACITzL.js,01OtvpwikQL.js,31FgVgxvzxL.js,11nOzlnr6+L.js,41IOUA4nLUL.js,11p0nLfNCcL.js,11iHZuQapKL.js,21qOGqjcM7L.js,21ZbonpQxqL.js,21YblE14ZTL.js,61kiOCqFcrL.js,013eoEBTVUL.js,016QFWAAdML.js,51Twr5SdKAL.js,019W6kk1gjL.js,01XgHyauQVL.js,11zmqgGFA1L.js,01hkseOXj6L.js,01yx6A7MuUL.js,311A0yCIeJL.js,01iRN5bMQkL.js,51jKqMrt8zL.js,010lzJSwDmL.js,1128hPg7WWL.js,01PQKs49DyL.js,01VioBGf5+L.js,01l88RoySLL.js,013aNY++XJL.js,11TiyGjyy6L.js_.js?AUIClients/MediaDetailPageMetaAsset_AOD_LATENCY_CLAWBACK_T1&vBrklyXv#desktop.language-en.in.218075-T1.302425-T1.292695-C.195406-T1.252279-T1.105844-C.300828-T1.200616-T1.286985-C.302241-T1.184660-C.234311-T1.109378-T1.154031-T3.224722-T1.169593-T1:1107)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/21E2aIDj6DL._RC%7C31695JlnK7L.js,41l0gfO6zRL.js,01g2etah0NL.js,31Nb5hZQizL.js,21d13+Tny5L.js,21hDW1uFLaL.js,31oAl8dJC2L.js,41f9BGywGeL.js,11Vp9chpn8L.js,01Ng0K110HL.js,21VTaUDSkJL.js,31vMFUg376L.js,01TQyo0bnIL.js,11mlkYc5NML.js,71RCXazy3hL.js,0185ITV0M6L.js,41Dds42UuNL.js,31UjTApGOPL.js,21taet5Ae3L.js,01K4O5nHboL.js,11+CIunp70L.js,21UUPbFLYdL.js,01wYyhYnnFL.js,01Fy9QPljuL.js,41TKsvWDdGL.js,11oGaoYgbdL.js,01JzE3-DfLL.js,11+dypSOVUL.js,01jqyAujTwL.js,31+0pACITzL.js,01OtvpwikQL.js,31FgVgxvzxL.js,11nOzlnr6+L.js,41IOUA4nLUL.js,11p0nLfNCcL.js,11iHZuQapKL.js,21qOGqjcM7L.js,21ZbonpQxqL.js,21YblE14ZTL.js,61kiOCqFcrL.js,013eoEBTVUL.js,016QFWAAdML.js,51Twr5SdKAL.js,019W6kk1gjL.js,01XgHyauQVL.js,11zmqgGFA1L.js,01hkseOXj6L.js,01yx6A7MuUL.js,311A0yCIeJL.js,01iRN5bMQkL.js,51jKqMrt8zL.js,010lzJSwDmL.js,1128hPg7WWL.js,01PQKs49DyL.js,01VioBGf5+L.js,01l88RoySLL.js,013aNY++XJL.js,11TiyGjyy6L.js_.js?AUIClients/MediaDetailPageMetaAsset_AOD_LATENCY_CLAWBACK_T1&vBrklyXv#desktop.language-en.in.218075-T1.302425-T1.292695-C.195406-T1.252279-T1.105844-C.300828-T1.200616-T1.286985-C.302241-T1.184660-C.234311-T1.109378-T1.154031-T3.224722-T1.169593-T1:1109)
+  n (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:19)
+  (anonymous function) (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:20)
+  ca (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.310Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'k.ue.rid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.311Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  initialize (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:20)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17)
+  forEach (:0)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:16)
+  n (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:19)
+  (anonymous function) (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:20)
+  ca (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.315Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'k.ue.rid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.315Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  initialize (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:20)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17)
+  forEach (:0)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:16)
+  n (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:19)
+  (anonymous function) (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:20)
+  ca (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.321Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'k.ue.rid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:15.321Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  initialize (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:20)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17)
+  forEach (:0)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:16)
+  n (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:19)
+  (anonymous function) (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:20)
+  ca (https://www.amazon.in/Python-Programming-Problem-Solving-Approach/dp/0199480176:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:16.913Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:16.914Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  global code (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:3536)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.085Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.085Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  n (https://images-eu.ssl-images-amazon.com/images/I/21E2aIDj6DL._RC%7C31695JlnK7L.js,41l0gfO6zRL.js,01g2etah0NL.js,31Nb5hZQizL.js,21d13+Tny5L.js,21hDW1uFLaL.js,31oAl8dJC2L.js,41f9BGywGeL.js,11Vp9chpn8L.js,01Ng0K110HL.js,21VTaUDSkJL.js,31vMFUg376L.js,01TQyo0bnIL.js,11mlkYc5NML.js,71RCXazy3hL.js,0185ITV0M6L.js,41Dds42UuNL.js,31UjTApGOPL.js,21taet5Ae3L.js,01K4O5nHboL.js,11+CIunp70L.js,21UUPbFLYdL.js,01wYyhYnnFL.js,01Fy9QPljuL.js,41TKsvWDdGL.js,11oGaoYgbdL.js,01JzE3-DfLL.js,11+dypSOVUL.js,01jqyAujTwL.js,31+0pACITzL.js,01OtvpwikQL.js,31FgVgxvzxL.js,11nOzlnr6+L.js,41IOUA4nLUL.js,11p0nLfNCcL.js,11iHZuQapKL.js,21qOGqjcM7L.js,21ZbonpQxqL.js,21YblE14ZTL.js,61kiOCqFcrL.js,013eoEBTVUL.js,016QFWAAdML.js,51Twr5SdKAL.js,019W6kk1gjL.js,01XgHyauQVL.js,11zmqgGFA1L.js,01hkseOXj6L.js,01yx6A7MuUL.js,311A0yCIeJL.js,01iRN5bMQkL.js,51jKqMrt8zL.js,010lzJSwDmL.js,1128hPg7WWL.js,01PQKs49DyL.js,01VioBGf5+L.js,01l88RoySLL.js,013aNY++XJL.js,11TiyGjyy6L.js_.js?AUIClients/MediaDetailPageMetaAsset_AOD_LATENCY_CLAWBACK_T1&vBrklyXv#desktop.language-en.in.218075-T1.302425-T1.292695-C.195406-T1.252279-T1.105844-C.300828-T1.200616-T1.286985-C.302241-T1.184660-C.234311-T1.109378-T1.154031-T3.224722-T1.169593-T1:1107)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/21E2aIDj6DL._RC%7C31695JlnK7L.js,41l0gfO6zRL.js,01g2etah0NL.js,31Nb5hZQizL.js,21d13+Tny5L.js,21hDW1uFLaL.js,31oAl8dJC2L.js,41f9BGywGeL.js,11Vp9chpn8L.js,01Ng0K110HL.js,21VTaUDSkJL.js,31vMFUg376L.js,01TQyo0bnIL.js,11mlkYc5NML.js,71RCXazy3hL.js,0185ITV0M6L.js,41Dds42UuNL.js,31UjTApGOPL.js,21taet5Ae3L.js,01K4O5nHboL.js,11+CIunp70L.js,21UUPbFLYdL.js,01wYyhYnnFL.js,01Fy9QPljuL.js,41TKsvWDdGL.js,11oGaoYgbdL.js,01JzE3-DfLL.js,11+dypSOVUL.js,01jqyAujTwL.js,31+0pACITzL.js,01OtvpwikQL.js,31FgVgxvzxL.js,11nOzlnr6+L.js,41IOUA4nLUL.js,11p0nLfNCcL.js,11iHZuQapKL.js,21qOGqjcM7L.js,21ZbonpQxqL.js,21YblE14ZTL.js,61kiOCqFcrL.js,013eoEBTVUL.js,016QFWAAdML.js,51Twr5SdKAL.js,019W6kk1gjL.js,01XgHyauQVL.js,11zmqgGFA1L.js,01hkseOXj6L.js,01yx6A7MuUL.js,311A0yCIeJL.js,01iRN5bMQkL.js,51jKqMrt8zL.js,010lzJSwDmL.js,1128hPg7WWL.js,01PQKs49DyL.js,01VioBGf5+L.js,01l88RoySLL.js,013aNY++XJL.js,11TiyGjyy6L.js_.js?AUIClients/MediaDetailPageMetaAsset_AOD_LATENCY_CLAWBACK_T1&vBrklyXv#desktop.language-en.in.218075-T1.302425-T1.292695-C.195406-T1.252279-T1.105844-C.300828-T1.200616-T1.286985-C.302241-T1.184660-C.234311-T1.109378-T1.154031-T3.224722-T1.169593-T1:1109)
+  n (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:19)
+  (anonymous function) (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:20)
+  ca (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.860Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: ReferenceError: Can't find variable: ue
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.861Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  (anonymous function) (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:11198)
+  n (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:19)
+  (anonymous function) (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:20)
+  ca (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.887Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'k.ue.rid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.887Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  initialize (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:20)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17)
+  forEach (:0)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:16)
+  n (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:19)
+  (anonymous function) (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:20)
+  ca (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.910Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'k.ue.rid')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:17.910Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  initialize (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:20)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:17)
+  forEach (:0)
+  (anonymous function) (https://images-eu.ssl-images-amazon.com/images/I/51LnqtJRjTL.js?AUIClients/CardJsRuntimeBuzzCopyBuild:16)
+  n (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:19)
+  (anonymous function) (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:20)
+  ca (https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280:23)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:18.568Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - msg: Error: Syntax error, unrecognized expression: 
+
+
+
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-30T09:26:18.568Z] Session [0bd16140-4a81-11eb-9e52-11c4e704a24b] - page.onError - stack:
+  error (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:196)
+  filter (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:104)
+  n (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:101)
+  n (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:123)
+  find (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:127)
+  init (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:32)
+  b (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:30)
+  success (https://images-eu.ssl-images-amazon.com/images/I/41eF0jJqsmL._RC%7C717rNZIRwiL.js,61JkgunaWRL.js,41W9ohA0e+L.js,11Eo8doi-gL.js,21cmvUGs-3L.js,419FcfFaDeL.js,516bz+U3ElL.js,31-PQNZn78L.js,01ZuJG498XL.js_.js?AUIClients/NavDesktopUberAsset&0Gby8Y23#desktop.320369-T1.312593-T1.310484-T1:40)
+  resolveWith (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:47)
+  d (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:162)
+  b (https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:173)
+
+  phantomjs://platform/console++.js:263 in error

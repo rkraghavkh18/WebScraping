@@ -1,0 +1,12 @@
+[INFO  - 2020-12-29T13:37:02.959Z] GhostDriver - Main - running on port 13408
+[INFO  - 2020-12-29T13:37:05.033Z] Session [f06c9c40-49da-11eb-8949-53c22fa2f819] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-12-29T13:37:05.033Z] Session [f06c9c40-49da-11eb-8949-53c22fa2f819] - page.customHeaders:  - {}
+[INFO  - 2020-12-29T13:37:05.034Z] Session [f06c9c40-49da-11eb-8949-53c22fa2f819] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-12-29T13:37:05.034Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f06c9c40-49da-11eb-8949-53c22fa2f819
+[ERROR - 2020-12-29T13:37:17.978Z] Session [f06c9c40-49da-11eb-8949-53c22fa2f819] - page.onError - msg: Unhandled promise rejection TypeError: undefined is not a constructor (evaluating 't.load()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-12-29T13:37:17.979Z] Session [f06c9c40-49da-11eb-8949-53c22fa2f819] - page.onError - stack:
+  exports (https://m.media-amazon.com/images/I/61SeeyqsNHL.js:1)
+
+  phantomjs://platform/console++.js:263 in error
